@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+a {
+	font-family: cursive;
+}
+
+h1 {
+	font-family: cursive;
+}
+
+#myProgress {
+    width: 45%;
+    background-color: grey;
+}
+#myBar {
+    width: 1%;
+    height: 5px;
+    background-color: green;
+}
+
+body {font-family: "Lato", sans-serif;}
+
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+#Home {background-color:red;}
+#Age {background-color:green;}
+#Branch {background-color:blue;}
+#Picture {background-color:orange;}

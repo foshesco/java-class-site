@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+body {
+	background: #c0ded9;
+	font-family: cursive;
+}
+
+h2 {
+	background: #b2c2bf;
+	color: #222;
+	padding: 10px;
+}
+
+a {
+	color: blue;
+}
+
+table {
+	background: #eaece5;
+	color: black;
+}
+
+h1 {
+	font-size: 50px;
+	background: #eaece5;
+	border: 5px solid Tomato;
+	margin: 25px 50px 75px 50px;
+	width: 600px;
+}
